@@ -1,4 +1,4 @@
-# MCP LLM Demo
+# MCP-like to OpenAI LLM Demo
 
 Basic example of Model Context Protocol (MCP)-like with OpenAI GPT, in Python.
 
