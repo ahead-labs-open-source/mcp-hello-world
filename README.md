@@ -1,6 +1,6 @@
 # MCP LLM Demo
 
-Basic example of Model Context Protocol (MCP) with OpenAI GPT, in Python.
+Basic example of Model Context Protocol (MCP)-like with OpenAI GPT, in Python.
 
 It calls the OpenAI API to generate text based on a prompt and prints the response.
 
